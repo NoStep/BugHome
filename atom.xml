@@ -5,9 +5,9 @@
   
   <link href="nostep.github.io/atom.xml" rel="self"/>
   
-  <link href="https://nostep.github.io/"/>
+  <link href="https://nostep.github.io/BugHome/"/>
   <updated>2018-03-14T08:24:34.103Z</updated>
-  <id>https://nostep.github.io/</id>
+  <id>https://nostep.github.io/BugHome/</id>
   
   <author>
     <name>无踏</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello world</title>
-    <link href="https://nostep.github.io/2018/03/09/hello-world/"/>
-    <id>https://nostep.github.io/2018/03/09/hello-world/</id>
+    <link href="https://nostep.github.io/BugHome/2018/03/09/hello-world/"/>
+    <id>https://nostep.github.io/BugHome/2018/03/09/hello-world/</id>
     <published>2018-03-09T10:06:51.760Z</published>
     <updated>2018-03-14T08:24:34.103Z</updated>
     
@@ -34,7 +34,7 @@
     
     </summary>
     
-      <category term="其它" scheme="https://nostep.github.io/categories/%E5%85%B6%E5%AE%83/"/>
+      <category term="其它" scheme="https://nostep.github.io/BugHome/categories/%E5%85%B6%E5%AE%83/"/>
     
     
   </entry>

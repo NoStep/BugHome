@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>山风的BLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-14T08:24:34.103Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>无踏</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="http://yoursite.com/2018/03/09/hello-world/"/>
+    <id>http://yoursite.com/2018/03/09/hello-world/</id>
+    <published>2018-03-09T10:06:51.760Z</published>
+    <updated>2018-03-14T08:24:34.103Z</updated>
+    
+    <content type="html"><![CDATA[<p>啪哒，啪哒；咚！黑框上出现一行白字，“Hello world”。小风的脸上流露出欢喜，“靠！终于对了，终于对<br>了。”<br>“对什么了？对什么了”，三对好奇眼睛望向这边。“我成功输出”Hello world“了”，春风得意的小风，<br>“来，我给你们看看。”接着又是一连串手指碰撞的嘈杂声。三人欣喜的围在他后。此时，嘈杂声停了，一声<br>轻脆的撞击。黑框出现，然尔上面不再一行白字。<br>“Hellp world!”<br>“welcome XiaoFen Home.”<br>“can I help you?”<br>大家齐呼，“666！”响彻楼层二三间，“什么东西这么6？”响起一阵敲门声。<br>星舟去开了门。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;啪哒，啪哒；咚！黑框上出现一行白字，“Hello world”。小风的脸上流露出欢喜，“靠！终于对了，终于对&lt;br&gt;了。”&lt;br&gt;“对什么了？对什么了”，三对好奇眼睛望向这边。“我成功输出”Hello world“了”，春风得意的小风，&lt;br&gt;“来，我给你们看看。”接着又是
+      
+    
+    </summary>
+    
+      <category term="其它" scheme="http://yoursite.com/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+  </entry>
+  
+</feed>

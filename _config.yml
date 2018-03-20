@@ -4,10 +4,10 @@
 
 # Site
 title: 无踏的BLOG
-subtitle:
-description:
+subtitle: 何以解忧，唯有杜康
+description: 
 author: 无踏
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -72,7 +72,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
